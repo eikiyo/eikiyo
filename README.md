@@ -1,6 +1,6 @@
-<h1 align="center">Seyed Mosayeb Alam</h1>
-
-<p align="center"><em>Building AI-native software on the edge.</em></p>
+<p align="center">
+  <img src="banner.svg" alt="Seyed Mosayeb Alam — building AI-native software on the edge" width="100%">
+</p>
 
 <p align="center">
   <a href="https://rectoapp.com">Website</a>
